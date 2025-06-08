@@ -1,0 +1,13 @@
+name;password;email;failed_login_attempts;logged_in;role
+alice;mdp123;alice@mail.com;0;False;user
+bob;secret;bob@mail.com;1;False;admin
+carol;passcarol;carol@mail.com;0;False;user
+david;abc123;david@mail.com;2;False;user
+emma;password1;emma@mail.com;0;False;user
+frank;frankpw;frank@mail.com;0;False;user
+grace;gracepwd;grace@mail.com;3;False;user
+henry;henrypass;henry@mail.com;0;False;user
+iris;irispass;iris@mail.com;0;False;user
+jack;jackpw;jack@mail.com;0;False;admin
+Liham;monfils;lili@top,com;1;False;user
+Majed;wild;maj@arsenalcom;2;False;user
